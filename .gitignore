@@ -1,0 +1,25 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+*-checkpoint.ipynb
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Large uncompressed CSV files
+data/creditcard.csv
+*.csv.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db

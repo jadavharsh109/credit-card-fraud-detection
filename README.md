@@ -5,6 +5,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshjadav0901/)
 
 An end-to-end Machine Learning solution designed to detect fraudulent credit card transactions in real-time from high-volume, highly imbalanced transactional data.
 
@@ -152,6 +153,7 @@ jupyter notebook notebooks/credit_card_fraud_detection.ipynb
 ## 👨‍💻 Author
 
 **Harsh Jadav**  
-*Aspiring Data Analyst & Data Scientist*  
+*Data Analyst | Data Scientist*  
+* LinkedIn: [harshjadav0901](https://www.linkedin.com/in/harshjadav0901/)  
 * GitHub: [@jadavharsh109](https://github.com/jadavharsh109)  
 * Email: [jadavharsh109@gmail.com](mailto:jadavharsh109@gmail.com)
